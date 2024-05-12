@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👋 Greetings, I am @muhammadhamza2001
+- 👋 Greetings, I am Muhammad Hamza
 - 🔭 I’m Full Stack Engineer with extensive experience in Web Development.
 - 🌱 My passion for innovation and learning drives me to constantly stay up-to-date with the latest advancements in technology. My expertise spans across    multiple programming languages, and I have honed my skills in Javascript frameworks. 
 - 👯 I am eagerly seeking collaboration opportunities to leverage my skills and contribute to cutting-edge projects in web domains.
