@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:1e1b4b,70:4c1d95,100:a78bfa&height=220&section=header&text=Muhammad%20Hamza&fontSize=56&fontColor=f5f3ff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Automation%20%C2%B7%20Senior%20%40%20Jeel&descSize=16&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%" alt="Muhammad Hamza — Full Stack Engineer · AI Automation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%E2%80%94+React%2C+Next.js+%26+Node.js;I+build+AI+into+real+products.;Senior+Software+Engineer+%40+Jeel+%F0%9F%8F%A6" alt="Full-stack engineer — I build AI into real products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%E2%80%94+React%2C+Next.js+%26+Node.js;React+Native+apps+for+iOS+%26+Android.;I+build+AI+into+real+products.;Senior+Software+Engineer+%40+Jeel+%F0%9F%8F%A6" alt="Full-stack engineer — I build AI into real products"/>
 
 <br/><br/>
 
@@ -24,6 +24,7 @@
 
 - 🏦 Currently building **banking & finance products at Jeel**
 - ⚛️ Full stack — **React / Next.js**, **Node.js / Express**, **PostgreSQL / MongoDB**
+- 📱 **React Native** — cross‑platform mobile apps for iOS & Android
 - 🤖 **AI in production** — chatbots, agents & workflow automation with OpenAI, Gemini & DeepSeek
 - ✨ Obsessive about performance, clean architecture and the details users *feel*
 - 📍 Lahore, Pakistan — open to **AI features · MVP builds · architecture reviews**
@@ -38,8 +39,9 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/React_Native-09090b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/OpenAI_GPT-4c1d95?style=for-the-badge" alt="OpenAI GPT"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4c1d95?style=for-the-badge" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4c1d95?style=for-the-badge&cacheSeconds=86400" alt="Google Gemini"/>
 <img src="https://img.shields.io/badge/DeepSeek-4c1d95?style=for-the-badge" alt="DeepSeek"/>
 <img src="https://img.shields.io/badge/Vercel_AI_SDK-4c1d95?style=for-the-badge" alt="Vercel AI SDK"/>
 
@@ -78,21 +80,6 @@
 
 <div align="center">
 <sub>Also built: Swift Ride · <a href="https://omaxx.io/">Omaxx</a> · Hassaan Mian · iHUB DivyaSampark &nbsp;·&nbsp; <a href="https://thehamzaportfolio.vercel.app/#projects"><b>all case studies ↗</b></a></sub>
-</div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza2001&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=a78bfa&text_color=e4e4e7&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza2001&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=e4e4e7&langs_count=8" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=muhammadhamza2001&hide_border=true&background=09090b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=f4f4f5&sideNums=f4f4f5&dates=71717a" alt="Contribution streak"/>
-
-<sub>🔒 Much of my work lives in private repos and on Bitbucket — the graphs undercount.</sub>
-
 </div>
 
 ---
